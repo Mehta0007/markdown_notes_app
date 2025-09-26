@@ -42,10 +42,10 @@ export default function Login() {
                 <a href="https://github.com/Mehta0007" target="_blank">
                 <img src="https://avatars.githubusercontent.com/u/145217011?v=4" alt="pfp" />
                 @Mehta0007
+<i className="fa-brands fa-github"></i>
                 </a>
                 
  
-<i className="fa-brands fa-github"></i>
             </footer>
 
         </div>
